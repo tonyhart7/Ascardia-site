@@ -49,8 +49,8 @@ features:
       content: We believe in making technology accessible to everyone. Our solutions break barriers, ensuring inclusivity and empowering users of all abilities.
     - title: Human-Centered Tech
       content: we revolutionize technology with a human touch. Our solutions prioritize user needs, making technology intuitive and empowering.
-    - title: Excellence
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
+    - title: Privacy
+      content: Our solutions empower you to take control of your personal data, ensuring confidentiality and peace of mind.
     - title: Excellence
       content: We strive for perfection. Our solutions are meticulously crafted, delivering exceptional performance and quality.
     - title: Innovation

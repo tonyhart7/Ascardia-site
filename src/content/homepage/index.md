@@ -1,7 +1,7 @@
 ---
 banner:
-  title: "Effortless and Affordable Infrastructure"
-  content: "At Ascardia, we believe that building infrastructure on new technology shouldn't be a daunting and expensive endeavor. Our mission is to empower businesses to push the boundaries of software development, offering solutions that excel in speed, efficiency, and reliability. With our expertise and innovative approach, we make harnessing new technologies a seamless and cost-effective process."
+  title: "Streamlined and Cost-Effective Infrastructure Solutions"
+  content: "At Ascardia, we believe that building infrastructure on new technology should be a seamless and cost-effective experience. Our mission is to empower businesses to harness the full potential of software development, offering innovative solutions that excel in speed, efficiency, and reliability. With our expertise and streamlined approach, we ensure a smooth and affordable transition to cutting-edge technologies."
   image: /images/banner-img.png
   button:
     label: See our works

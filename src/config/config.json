@@ -1,7 +1,7 @@
 {
   "site": {
     "title": "Ascardia: A leading technology consultancy | Ascardia",
-    "base_url": "https://ascardia.netlify.com",
+    "base_url": "https://ascardia.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -34,7 +34,7 @@
 
   "params": {
     "footer_description": "Lorem ipsum dolor sit sed dmi amet, consectetur adipiscing. Cdo tellus, sed condimentum volutpat.",
-    "email": "info@andromeda.io",
+    "email": "info@ascardia.org",
     "location": "Surabaya, East Java Indonesia",
     "phone": "+704-555-0127",
     "contact_form_action": "#",
