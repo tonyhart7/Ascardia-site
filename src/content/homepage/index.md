@@ -1,12 +1,12 @@
 ---
 banner:
-  title: "Scale design & dev operations with Avocode Enterprise"
-  content: "A fully integrated suite of authentication & authoriz products, Stytch’s platform removes the headache of."
+  title: "Effortless and Affordable Infrastructure"
+  content: "At Ascardia, we believe that building infrastructure on new technology shouldn't be a daunting and expensive endeavor. Our mission is to empower businesses to push the boundaries of software development, offering solutions that excel in speed, efficiency, and reliability. With our expertise and innovative approach, we make harnessing new technologies a seamless and cost-effective process."
   image: /images/banner-img.png
   button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
-    enable: true
+    label: See our works
+    link: "/blog"
+    enable: false
 
 ##key features
 key_features:

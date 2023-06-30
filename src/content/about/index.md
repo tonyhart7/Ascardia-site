@@ -41,22 +41,22 @@ gallery:
 features:
   title: The six core work <br /> drive everything do
   button:
-    label: Download The Theme
-    link: "https://themefisher.com/astro-themes/pinwheel-astro"
-    enable: true
+    label: See Our Works
+    link: "https://ascardia.tech"
+    enable: false
   features_list:
     - title: Accessibility
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Empowerement
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
+      content: We believe in making technology accessible to everyone. Our solutions break barriers, ensuring inclusivity and empowering users of all abilities.
+    - title: Human-Centered Tech
+      content: we revolutionize technology with a human touch. Our solutions prioritize user needs, making technology intuitive and empowering.
     - title: Excellence
       content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
+    - title: Excellence
+      content: We strive for perfection. Our solutions are meticulously crafted, delivering exceptional performance and quality.
     - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
-    - title: Innovation
-      content: Nulla porttitor acmsan tinci dunt. posuere cubilia Cudfrae Donec velit neque, autor sit amet aliuam vel
+      content: We push the boundaries of what's possible. Our solutions are at the forefront of innovation, driving progress and transforming industries.
+    - title: No Vendor Lock
+      content: We empower businesses with flexible solutions, giving you full control over your infrastructure.
     
 
 ## members
@@ -83,4 +83,4 @@ members:
       field: Software Engineer
       image: "/images/users/user-3.png"
 ---
-Donec sollicitudin molestie malesda. Donec sollitudin molestie malesuada. Mauris pellentesque nec, egestas non nisi. Cras ultricies ligula sed magna dictum porta. Lorem
+At Ascardia, we believe that building infrastructure on new technology should be a smooth, cost-effective, and rewarding experience. We are here to simplify the complexities, unleash the power of cutting-edge technologies, and deliver software solutions that propel your business forward. Let us be your trusted partner in software development, guiding you on a path of innovation, efficiency, and success. Together, we can build the infrastructure of tomorrow, today.
